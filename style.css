@@ -1251,52 +1251,52 @@ position: absolute;
 }
 @media screen and (max-width: 1020px){
   .vidini{
-    height: 280px;
+    height: 360px;
     width: auto;
-    left: 79%;
+    left: 73%;
     top: 4%;
   }
   .navbar-wrapper {
     display: none;
   }
   .pol1{
-    width: 307px;
-    height: 437px;
-    left: 77%;
+    width: auto;
+    height: 370px;
+    left: 65%;
     top: -4%;
 }
 .pol2{
     height: auto;
-    width: 290px;
-    left: 78%;
+    width: 350px;
+    left: 73.4%;
     top: 11%;
     
 }
 .logoin{
-  left: 50%;
+  left: 30%;
   top: 5.5%;
 }
 .logogrande{
-  height: 110px;
+  height: 150px;
   width: auto;
 }
 .botoin1 {
-  width: 80px;
+  width: 110px;
   height: 18px;
 }
 
 .botoin2 {
-  width: 80px;
+  width: 110px;
   height: 18px;
-  left: 120px;
+  left: 180px;
 }
 .clique {  
   
-  font-size: 13px;
+  font-size: 20px;
 }
 .botoin{
   top: 110%;
-  left: 23%;
+  left: 21%;
 }
 
 }
