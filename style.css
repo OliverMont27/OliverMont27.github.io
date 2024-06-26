@@ -1455,6 +1455,38 @@ left: 33%;
   .text-wrapper-9{
   width: 220px;
 }
+  /*sobre o vidro*/
+.sobrenos {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 49%;
+}
+.sobrenos .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1310px;
+  height: 1409px;
+  position: absolute;
+}
+.sobrenos .logoin{
+  left: 44%;
+  top: 5%;
+}
+.sobrenos .garrafas-de-vidro {
+  width: 400px;
+  top: -100px;
+}
+.sobrenos .textobj1{
+  left: -260px;
+}
+.sobrenos .frame-5{
+  left: -25px;
+}
+.sobrenos .problema {
+left: 17%;
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
