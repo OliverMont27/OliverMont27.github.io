@@ -1255,7 +1255,7 @@ position: absolute;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 100%;
+    width: 55%;
   }
   .paginicial .div {
     background-color: #ffffff;
@@ -1452,4 +1452,10 @@ left: 33%;
   left: 81.35%;
 
 }
+}
+@media screen and (max-width: 800px){
+  .paginicial{
+    width: 100%;
+
+  }
 }
