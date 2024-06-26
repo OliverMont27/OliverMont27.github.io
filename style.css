@@ -1249,7 +1249,7 @@ position: absolute;
   height: 830px;
   position: absolute; 
 }
-@media screen and (max-width: 1020px){
+@media screen and (max-width: 1220px){
   .paginicial {
     background-color: #ffffff;
     display: flex;
@@ -1452,5 +1452,10 @@ left: 33%;
   left: 81.35%;
 
 }
+}
+@media screen and (max-width: 750px){
+  .paginicial{
+    width: 100%;
+  }
 }
 
