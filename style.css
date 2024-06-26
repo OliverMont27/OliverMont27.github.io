@@ -1298,5 +1298,34 @@ position: absolute;
   top: 110%;
   left: 21%;
 }
+.vector-2 {
+  width: 376px;
+  left: -7.4% ;
 
+  top: -56.27%;
+  height: auto;
+}
+.garrafas-de-vidro{
+  width: 420px;
+  height: auto;
+  top: -55%;
+  left: -15%;
+}
+.textobj{
+  left: 50%;
+  top: -60%;
+}
+.textobj1{
+  left: -199px;
+}
+.textobj2{
+  width: 350px;
+  left: -120px;
+}
+.boto{
+  top: -400px;
+  width: 150px;
+  height: 27px;
+  left: 170%;
+}
 }
