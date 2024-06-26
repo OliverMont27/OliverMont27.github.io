@@ -1250,24 +1250,53 @@ position: absolute;
   position: absolute; 
 }
 @media screen and (max-width: 1020px){
-  .logoin{
-    position: absolute;
-    left: 25%;
-  }
-  .logogrande{
-    height: 140px;
+  .vidini{
+    height: 280px;
     width: auto;
-  }
-
-  .botoin{
-    left: 13%;
-
-  }
-  .botoin1{
-    width: 70px;
-    font-size: 0px;
+    left: 79%;
+    top: 4%;
   }
   .navbar-wrapper {
     display: none;
   }
+  .pol1{
+    width: 307px;
+    height: 437px;
+    left: 77%;
+    top: -4%;
+}
+.pol2{
+    height: auto;
+    width: 290px;
+    left: 78%;
+    top: 11%;
+    
+}
+.logoin{
+  left: 50%;
+  top: 5.5%;
+}
+.logogrande{
+  height: 110px;
+  width: auto;
+}
+.botoin1 {
+  width: 80px;
+  height: 18px;
+}
+
+.botoin2 {
+  width: 80px;
+  height: 18px;
+  left: 120px;
+}
+.clique {  
+  
+  font-size: 13px;
+}
+.botoin{
+  top: 110%;
+  left: 23%;
+}
+
 }
