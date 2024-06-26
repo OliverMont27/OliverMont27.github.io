@@ -1250,6 +1250,9 @@ position: absolute;
   position: absolute; 
 }
 @media screen and (max-width: 1200px){
+  .text-wrapper-9{
+  width: 220px;
+}
   .paginicial {
     background-color: #ffffff;
     display: flex;
@@ -1452,10 +1455,7 @@ left: 33%;
   left: 81.35%;
 
 }
-  .text-wrapper-9{
-  width: 220px;
-}
-  /*sobre o vidro*/
+/*sobre o vidro*/
 .sobrenos {
   background-color: #ffffff;
   display: flex;
