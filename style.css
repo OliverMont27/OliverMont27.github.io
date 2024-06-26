@@ -1250,6 +1250,20 @@ position: absolute;
   position: absolute; 
 }
 @media screen and (max-width: 1020px){
+  .paginicial {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 49%;
+  }
+  .paginicial .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1310px;
+    height: 2020px;
+    position: absolute;
+  }
   .vidini{
     height: 360px;
     width: auto;
@@ -1298,10 +1312,12 @@ position: absolute;
   top: 110%;
   left: 21%;
 }
+.slice-objetivo{
+  top: 848.5px;
+}
 .vector-2 {
   width: 376px;
   left: -7.4% ;
-
   top: -56.27%;
   height: auto;
 }
@@ -1364,22 +1380,22 @@ position: absolute;
   top: 1900px;
 }
 .frame-4{
-  left: 80%;
+  left: 77%;
 }
 .rectangle-6{
-  left: 84%;
+  left: 81%;
 }
 .image-2{
-  left: 84%
+  left: 81%
 }
 .frame-3 {
-  left: 55%;
+  left: 55.3%;
 }
 .rectangle-5 {
-  left: 58.7%;
+  left: 59%;
 }
 .ya {
-  left: 58.7%;
+  left: 59%;
 }
 .frame-2{
 left: 33%;
@@ -1389,5 +1405,51 @@ left: 33%;
 }
 .image-3 {
   left: 36.7%;
+}
+.slicebar {
+  top: 1700px;
+}
+.rectangle {
+  width: 1500px;
+  left: 10%;
+}
+.logo-3 {
+  left: 61%;
+  top: 250px;
+}
+.textfin1{
+  font-size: 18px;
+  left: 58% ;
+  top: 300px;
+}
+.textfin2{
+  font-size: 18px;
+  left: 84%;
+}
+
+.textfin3{
+  font-size: 18px;
+  left: 84%;
+}
+.textfin4{
+  font-size: 18px;
+  left: 84%;
+}
+.whatsapp{
+  width: auto ;
+  height: 30px;
+  left: 81.4%;
+}
+.instagram{
+  width: auto ;
+  height: 40px;
+  left: 81%;
+
+}
+.gmail{
+  width: auto ;
+  height: 30px;
+  left: 81.35%;
+
 }
 }
