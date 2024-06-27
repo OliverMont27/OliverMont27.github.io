@@ -1882,10 +1882,13 @@ left: 33%;
 }
 .textbar {
   left: 250px;
+}
+ .apoie .textbar {
+  left: 300px;
   top: 52px;
 
 }
-  .apoie .navbar-wrapper{
+.apoie .navbar-wrapper{
   top: -35px;
 }
 .apoie .textbar1{
