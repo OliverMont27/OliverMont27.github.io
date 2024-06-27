@@ -1507,7 +1507,7 @@ left: 17%;
   background-color: #ffffff;
   overflow: hidden;
   width: 436px;
-  height: 840px;
+  height: 820px;
   position: absolute;
 }
 .apoie .frame-3{
@@ -1528,7 +1528,7 @@ left: 17%;
 }
 .apoie .textfin1{
   font-size: 18px;
-  left: 20.5% ;
+  left: 18.5% ;
   top: 160px;
 
 }
@@ -1577,7 +1577,7 @@ left: 17%;
   top: 110px;
 }
 .apoie .slicebar{
-  top: 650px;
+  top: 630px;
 }
 }
 @media screen and (max-width: 750px){
