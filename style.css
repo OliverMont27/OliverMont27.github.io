@@ -1515,11 +1515,11 @@ left: 17%;
 }
 .apoie .slice-noticias1 {
   position: absolute;
-  left: -410px;
+  left: -408px;
 }
 .apoie .rectangle {
-  width: 380px;
-  left: 70px;
+  width: 480px;
+  left: 7px;
 }
 
 .apoie .logo-3 {
@@ -1556,25 +1556,25 @@ left: 17%;
   width: auto ;
   height: 30px;
   left: 70.8%;
-  top: 100px;
+  top: 70px;
 }
 .apoie .instagram{
   width: auto ;
   height: 40px;
   left: 89%;
-  top: 96px;
+  top: 65px;
 
 }
 .apoie .gmail{
   width: auto ;
   height: 30px;
   left: 80.55%;
-  top: 100px;
+  top: 70px;
 
 }
 .apoie .logo-3{
   left: 37.5%;
-  top: 150px;
+  top: 130px;
 }
 }
 @media screen and (max-width: 750px){
