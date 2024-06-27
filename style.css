@@ -1186,6 +1186,7 @@ body{
   width: 400px;
   height: auto;
   top: -200px;
+  border-radius: 20px;
 }
 .sobrenos .textobj{
   position: absolute;
@@ -1470,6 +1471,9 @@ left: 33%;
   height: 1409px;
   position: absolute;
 }
+.sobrenos .textlogo{
+  left: 170px;
+}
 .sobrenos .logoin{
   left: 44%;
   top: 5%;
@@ -1482,7 +1486,7 @@ left: 33%;
   left: -260px;
 }
 .sobrenos .frame-5{
-  left: -25px;
+  left: -10px;
 }
 .sobrenos .problema {
 left: 17%;
@@ -1496,4 +1500,3 @@ left: 17%;
     width: 100%;
   }
 }
-
