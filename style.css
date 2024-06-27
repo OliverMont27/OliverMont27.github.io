@@ -262,6 +262,22 @@ body{
     top: 2100px;
     left: 0;
   }
+.apoie .rectangle {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    width: 1310px;
+    top: 50px;
+    left: 0;
+  }
+  .aaa  .rectangle {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    width: 1310px;
+    top: 50px;
+    left: 0;
+  }
 
 .sobrenos .logogrande {
   position: absolute;
