@@ -1661,6 +1661,13 @@ left: 17%;
 .apoie .text-wrapper-9{
   font-size: 17px;
 }
+.apoie .clique-wrapper1 {
+  left: 510px;
+  top: 78px;
+  width: 100px;
+  height: 10px;
+
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
