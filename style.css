@@ -1801,7 +1801,7 @@ left: 17%;
   background-color: #ffffff;
   overflow: hidden;
   width: 1310px;
-  height: 1519.5px;
+  height: 1818.5px;
   position: absolute;
 }
 
@@ -1833,6 +1833,7 @@ left: 17%;
 }
 .sobreovidro .slice-noticias{
   left: 8px;
+  top: 1450px;
 }
 .sobreovidro .rectangle-4{
   left: 100px;
@@ -1877,9 +1878,8 @@ left: 33%;
   left: 10%;
 }
 .sobreovidro .slicebar {
-  top: 1201px;
-}
-  
+  top: 1500px;
+}  
 }
 @media screen and (max-width: 750px){
   .paginicial{
