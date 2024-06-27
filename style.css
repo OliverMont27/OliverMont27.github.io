@@ -1790,6 +1790,38 @@ left: 17%;
 .aaa .textou {
   left: 255px;
 }
+  .sobreovidro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 49%;
+}
+.sobreovidro .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1310px;
+  height: 1519.5px;
+  position: absolute;
+}
+
+.sobreovidro .garrafas-de-vidro {
+  width: 400px;
+  top: -100px;
+}
+.sobreovidro .textobj1{
+  left: -255px;
+}
+.sobreovidro .frame-5{
+  left: -10px;
+}
+.sobreovidro .problema {
+left: 17%;
+}
+.sobreovidro .slicebar {
+  top: 1200px;
+
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
