@@ -1801,7 +1801,7 @@ left: 17%;
   background-color: #ffffff;
   overflow: hidden;
   width: 1310px;
-  height: 1818.5px;
+  height: 1718.5px;
   position: absolute;
 }
 
@@ -1878,7 +1878,7 @@ left: 33%;
   left: 10%;
 }
 .sobreovidro .slicebar {
-  top: 1500px;
+  top: 1400px;
 }  
 }
 @media screen and (max-width: 750px){
