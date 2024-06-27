@@ -1275,281 +1275,7 @@ position: absolute;
     top: 4%;
   }
   .navbar-wrapper {
-  
-  }
-  .pol1{
-    width: auto;
-    height: 370px;
-    left: 65%;
-    top: -4%;
-}
-.pol2{
-    height: auto;
-    width: 350px;
-    left: 73.4%;
-    top: 11%;
-    
-}
-.logoin{
-  left: 30%;
-  top: 5.5%;
-}
-.logogrande{
-  height: 150px;
-  width: auto;
-}
-.botoin1 {
-  width: 110px;
-  height: 18px;
-}
-
-.botoin2 {
-  width: 110px;
-  height: 18px;
-  left: 180px;
-}
-.clique {  
-  
-  font-size: 20px;
-}
-.botoin{
-  top: 110%;
-  left: 21%;
-}
-.slice-objetivo{
-  top: 848.5px;
-}
-.vector-2 {
-  width: 376px;
-  left: -7.4% ;
-  top: -56.27%;
-  height: auto;
-}
-.garrafas-de-vidro{
-  width: 420px;
-  height: auto;
-  top: -55%;
-  left: -15%;
-}
-.textobj{
-  left: 50%;
-  top: -60%;
-}
-.textobj1{
-  left: -199px;
-}
-.textobj2{
-  width: 350px;
-  left: -120px;
-}
-.boto{
-  top: -400px;
-  width: 150px;
-  height: 27px;
-  left: 170%;
-}
-.frame {
-  left: 115%;
-}
-.frame p {
-  width: 450px;
-
-}
-.boto1{
-  width: 150px;
-  height: 27px;
-}
-.image{
-  width: 300px;
-  height: auto;
-  left: 500px;
-  top: -65px;
-}
-.polygon{
-  left: 400px;
-  width: 200px;
-  height: auto;
-  top: -260px;
-}
-.vector {
-  width: 130px;
-  height: auto;
-  left: 395px;
-  top: -82px;
-}
-.slice-mquina{
-  top: 1000px;
-}
-.slice-noticias{
-  top: 1900px;
-}
-.frame-4{
-  left: 77%;
-}
-.rectangle-6{
-  left: 81%;
-}
-.image-2{
-  left: 81%
-}
-.frame-3 {
-  left: 55.3%;
-}
-.rectangle-5 {
-  left: 59%;
-}
-.ya {
-  left: 59%;
-}
-.frame-2{
-left: 33%;
-}
-.rectangle-7 {
-  left: 36.7%;
-}
-.image-3 {
-  left: 36.7%;
-}
-.slicebar {
-  top: 1700px;
-}
-.rectangle {
-  width: 1500px;
-  left: 10%;
-}
-.logo-3 {
-  left: 61%;
-  top: 250px;
-}
-.textfin1{
-  font-size: 18px;
-  left: 57.0% ;
-  top: 300px;
-}
-.textfin2{
-  font-size: 18px;
-  left: 84%;
-}
-
-.textfin3{
-  font-size: 18px;
-  left: 84%;
-}
-.textfin4{
-  font-size: 18px;
-  left: 84%;
-}
-.whatsapp{
-  width: auto ;
-  height: 30px;
-  left: 81.4%;
-}
-.instagram{
-  width: auto ;
-  height: 40px;
-  left: 81%;
-
-}
-.gmail{
-  width: auto ;
-  height: 30px;
-  left: 81.35%;
-
-}
-/*sobre o vidro*/
-.sobrenos {
-  background-color: #ffffff;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 49%;
-}
-.sobrenos .div {
-  background-color: #ffffff;
-  overflow: hidden;
-  width: 1310px;
-  height: 1519.5px;
-  position: absolute;
-}
-.sobrenos .textlogo{
-  left: 163px;
-}
-.sobrenos .logoin{
-  left: 44%;
-  top: 5%;
-}
-.sobrenos .garrafas-de-vidro {
-  width: 400px;
-  top: -100px;
-}
-.sobrenos .textobj1{
-  left: -255px;
-}
-.sobrenos .frame-5{
-  left: -10px;
-}
-.sobrenos .problema {
-left: 17%;
-}
-.sobrenos .slicebar {
-  top: 1200px;
-
-}
-  .apoie {
-  background-color: #ffffff;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 80%;
-}
-.apoie .div {
-  background-color: #ffffff;
-  overflow: hidden;
-  width: 430px;
-  height: 2020px;
-  position: absolute;
-}
-.apoie .frame-3{
-  left: 37.8%;
-}
-.apoie .slice-noticias1 {
-  position: absolute;
-  left: -400px;
-}
-.apoie .rectangle {
-  width: 360px;
-  left: 70px;
-}
-.apoie .rectangle-4 {
-  background-color: #1F3FA2;
-  opacity: 0.8;
-  top: 211px;
-}
-  @media screen and (max-width: 1200px){
-  .text-wrapper-9{
-  width: 220px;
-}
-  .paginicial {
-    background-color: #ffffff;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 49%;
-  }
-  .paginicial .div {
-    background-color: #ffffff;
-    overflow: hidden;
-    width: 1310px;
-    height: 2020px;
-    position: absolute;
-  }
-  .vidini{
-    height: 360px;
-    width: auto;
-    left: 73%;
-    top: 4%;
-  }
-  .navbar-wrapper {
+    display: none;
   }
   .pol1{
     width: auto;
@@ -1781,7 +1507,7 @@ left: 17%;
   background-color: #ffffff;
   overflow: hidden;
   width: 430px;
-  height: 2020px;
+  height: 780px;
   position: absolute;
 }
 .apoie .frame-3{
@@ -1792,14 +1518,10 @@ left: 17%;
   left: -410px;
 }
 .apoie .rectangle {
-  width: 360px;
+  width: 380px;
   left: 70px;
 }
-.apoie .rectangle-4 {
-  background-color: #1F3FA2;
-  opacity: 0.8;
-  top: 211px;
-}
+
 .apoie .logo-3 {
   left: 37%;
   top: 250px;
@@ -1807,7 +1529,7 @@ left: 17%;
 .apoie .textfin1{
   font-size: 18px;
   left: 26.0% ;
-  top: 300px;
+  top: 190px;
 
 }
 .apoie .textfin2{
@@ -1834,30 +1556,25 @@ left: 17%;
   width: auto ;
   height: 30px;
   left: 70.8%;
-  top: 200px;
+  top: 100px;
 }
 .apoie .instagram{
   width: auto ;
   height: 40px;
   left: 89%;
-  top: 195px;
+  top: 96px;
 
 }
 .apoie .gmail{
   width: auto ;
   height: 30px;
   left: 80.55%;
-  top: 200px;
+  top: 100px;
 
 }
-}
-@media screen and (max-width: 750px){
-  .paginicial{
-    width: 100%;
-  }
-  .sobrenos{
-    width: 100%;
-  }
+.apoie .logo-3{
+  left: 37.5%;
+  top: 150px;
 }
 }
 @media screen and (max-width: 750px){
