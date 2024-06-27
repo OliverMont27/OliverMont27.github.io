@@ -1763,6 +1763,17 @@ left: 17%;
   position: relative;
   left: 69px;
 }
+  .aaa .enviar {
+  left: 190px;
+  
+}
+.aaa .enviar1 {
+  left: 115px;
+  
+}
+.aaa .textou {
+  left: 255px;
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
