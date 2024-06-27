@@ -1668,6 +1668,99 @@ left: 17%;
   height: 10px;
 
 }
+  .aaa .rectangle {
+  width: 480px;
+  left: -15px;
+}
+
+.aaa .logo-3 {
+  left: 38%;
+  top: 250px;
+}
+.aaa .textfin1{
+  font-size: 18px;
+  left: 18.5% ;
+  top: 160px;
+
+}
+.aaa .textfin2{
+  font-size: 18px;
+  left: 26.0% ;
+  top: 300px;
+  display: none;
+}
+.aaa .textfin3{
+  font-size: 18px;
+  left: 26.0% ;
+  top: 300px;
+  display: none;
+
+}
+.aaa .textfin4{
+  font-size: 18px;
+  left: 26.0% ;
+  top: 300px;
+  display: none;
+
+}
+.aaa .whatsapp{
+  width: auto ;
+  height: 30px;
+  left: 70.8%;
+  top: 70px;
+}
+.aaa .instagram{
+  width: auto ;
+  height: 40px;
+  left: 89%;
+  top: 65px;
+
+}
+.aaa .gmail{
+  width: auto ;
+  height: 30px;
+  left: 80.55%;
+  top: 70px;
+
+}
+.aaa .logo-3{
+  left: 31.5%;
+  top: 110px;
+}
+.aaa .slicebar{
+  top: 633px;
+}
+.aaa {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 98%;
+}
+.aaa .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 436px;
+  height: 820px;
+  position: absolute;
+}
+.aaa .contato{
+  left: -440px;
+}
+.aaa .form-control{
+  width: 385px;
+  left: 58px;
+  position: relative;
+}
+.aaa .form-control1{
+  width: 385px;
+  left: 58px;
+  position: relative;
+}
+.aaa label{
+  position: relative;
+  left: 58px;
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
