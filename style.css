@@ -1790,12 +1790,12 @@ left: 17%;
 .aaa .textou {
   left: 255px;
 }
-  .sobreovidro {
+ .sobreovidro {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 49%;
+  width: 100%;
 }
 .sobreovidro .div {
   background-color: #ffffff;
@@ -1807,7 +1807,8 @@ left: 17%;
 
 .sobreovidro .garrafas-de-vidro {
   width: 400px;
-  top: -100px;
+  top: -130px;
+  left: -130px;
 }
 .sobreovidro .textobj1{
   left: -255px;
@@ -1822,6 +1823,52 @@ left: 17%;
   top: 1200px;
 
 }
+.sobreovidro .slice-noticias{
+  left: -100px;
+}
+.sobreovidro .rectangle-4{
+  left: 100px;
+
+}
+.sobreovidro .textvidro{
+  left: 680px;
+
+}
+.sobreovidro .frame-4{
+  left: 77%;
+}
+.sobreovidro .rectangle-6{
+  left: 81%;
+}
+.sobreovidro .image-2{
+  left: 81%
+}
+.sobreovidro .frame-3 {
+  left: 55.3%;
+}
+.sobreovidro .rectangle-5 {
+  left: 59%;
+}
+.sobreovidro .ya {
+  left: 59%;
+}
+.sobreovidro .frame-2{
+left: 33%;
+}
+.sobreovidro .rectangle-7 {
+  left: 36.7%;
+}
+.sobreovidro .image-3 {
+  left: 36.7%;
+}
+.sobreovidro .slicebar {
+  top: 1700px;
+}
+.sobreovidro .rectangle {
+  width: 1500px;
+  left: 10%;
+}
+  
 }
 @media screen and (max-width: 750px){
   .paginicial{
