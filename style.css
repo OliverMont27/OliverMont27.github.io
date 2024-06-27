@@ -1883,6 +1883,39 @@ left: 33%;
 .textbar {
   left: 200px;
 }
+  .apoie .navbar-wrapper{
+  top: -35px;
+}
+.apoie .textbar1{
+  font-size: 15px;
+  left: -30px;
+}
+.apoie .textbar2{
+  font-size: 15px;
+  left: 25px;
+
+}
+.apoie .textbar3{
+  font-size: 15px;
+    left: 110px;
+
+}
+.apoie .textbar44{
+  font-size: 15px;
+  left: 210px;
+
+}
+.apoie .textbar5{
+  font-size: 15px;
+  left: 280px;
+
+}
+.apoie .logo-2 {
+  width: 100px;
+  height: auto;
+  top: -15px;
+}
+
 }
 @media screen and (max-width: 750px){
   .paginicial{
