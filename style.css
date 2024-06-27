@@ -1790,7 +1790,7 @@ left: 17%;
 .aaa .textou {
   left: 255px;
 }
- .sobreovidro {
+.sobreovidro {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
@@ -1810,8 +1810,16 @@ left: 17%;
   top: -130px;
   left: -130px;
 }
+.sobreovidro .textobj{
+  top: -25px;
+}
 .sobreovidro .textobj1{
   left: -255px;
+}
+.sobreovidro .textobj2{
+  left: -104px;
+  width: 350px;
+  font-size: 23px;
 }
 .sobreovidro .frame-5{
   left: -10px;
@@ -1824,7 +1832,7 @@ left: 17%;
 
 }
 .sobreovidro .slice-noticias{
-  left: -100px;
+  left: 8px;
 }
 .sobreovidro .rectangle-4{
   left: 100px;
@@ -1867,6 +1875,9 @@ left: 33%;
 .sobreovidro .rectangle {
   width: 1500px;
   left: 10%;
+}
+.sobreovidro .slicebar {
+  top: 1201px;
 }
   
 }
