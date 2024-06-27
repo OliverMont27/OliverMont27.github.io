@@ -1495,6 +1495,36 @@ left: 17%;
   top: 1200px;
 
 }
+  .apoie {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 80%;
+}
+.apoie .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 430px;
+  height: 2020px;
+  position: absolute;
+}
+.apoie .frame-3{
+  left: 37.8%;
+}
+.apoie .slice-noticias1 {
+  position: absolute;
+  left: -400px;
+}
+.apoie .rectangle {
+  width: 360px;
+  left: 70px;
+}
+.apoie .rectangle-4 {
+  background-color: #1F3FA2;
+  opacity: 0.8;
+  top: 211px;
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
