@@ -1423,7 +1423,7 @@ left: 33%;
 }
 .textfin1{
   font-size: 18px;
-  left: 58% ;
+  left: 57.0% ;
   top: 300px;
 }
 .textfin2{
@@ -1468,11 +1468,11 @@ left: 33%;
   background-color: #ffffff;
   overflow: hidden;
   width: 1310px;
-  height: 1409px;
+  height: 1519.5px;
   position: absolute;
 }
 .sobrenos .textlogo{
-  left: 170px;
+  left: 163px;
 }
 .sobrenos .logoin{
   left: 44%;
@@ -1483,13 +1483,17 @@ left: 33%;
   top: -100px;
 }
 .sobrenos .textobj1{
-  left: -260px;
+  left: -255px;
 }
 .sobrenos .frame-5{
   left: -10px;
 }
 .sobrenos .problema {
 left: 17%;
+}
+.sobrenos .slicebar {
+  top: 1200px;
+
 }
 }
 @media screen and (max-width: 750px){
