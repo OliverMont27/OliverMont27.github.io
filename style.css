@@ -1879,7 +1879,10 @@ left: 33%;
 }
 .sobreovidro .slicebar {
   top: 1400px;
-}  
+}
+.textbar {
+  left: 400px;
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
