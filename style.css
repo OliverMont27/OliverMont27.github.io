@@ -1884,7 +1884,7 @@ left: 33%;
   left: 250px;
 }
  .apoie .textbar {
-  left: 150px;
+  left: 140px;
   top: 55px;
 }
 .apoie .navbar-wrapper{
@@ -1914,6 +1914,7 @@ left: 33%;
   width: 100px;
   height: auto;
   top: -15px;
+  left: -15px;
 }
 }
 @media screen and (max-width: 750px){
