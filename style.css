@@ -1579,6 +1579,88 @@ left: 17%;
 .apoie .slicebar{
   top: 635px;
 }
+.apoie2 .rectangle {
+  width: 480px;
+  left: -15px;
+}
+
+.apoie2 .logo-3 {
+  left: 38%;
+  top: 250px;
+}
+.apoie2 .textfin1{
+  font-size: 18px;
+  left: 18.5% ;
+  top: 160px;
+
+}
+.apoie2 .textfin2{
+  font-size: 18px;
+  left: 26.0% ;
+  top: 300px;
+  display: none;
+}
+.apoie2 .textfin3{
+  font-size: 18px;
+  left: 26.0% ;
+  top: 300px;
+  display: none;
+
+}
+.apoie2 .textfin4{
+  font-size: 18px;
+  left: 26.0% ;
+  top: 300px;
+  display: none;
+
+}
+.apoie2 .whatsapp{
+  width: auto ;
+  height: 30px;
+  left: 70.8%;
+  top: 70px;
+}
+.apoie2 .instagram{
+  width: auto ;
+  height: 40px;
+  left: 89%;
+  top: 65px;
+
+}
+.apoie2 .gmail{
+  width: auto ;
+  height: 30px;
+  left: 80.55%;
+  top: 70px;
+
+}
+.apoie2 .logo-3{
+  left: 31.5%;
+  top: 110px;
+}
+.apoie2 .slicebar{
+  top: 633px;
+}
+.apoie .ya1 {
+  width: 200px;
+  height: auto;
+  left: 380px;
+  top: -460px;
+}
+.apoie .rectangle-555 {
+  height: 170px;
+  width: 380px;
+  left: 380px;
+  top: -460px;
+
+}
+.apoie .textap{
+  left: 595px;
+  top: 80px;
+}
+.apoie .text-wrapper-9{
+  font-size: 17px;
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
