@@ -1916,6 +1916,40 @@ left: 33%;
   top: -15px;
   left: -15px;
 }
+  /*xxx*/
+.aaa .textbar {
+  left: 140px;
+  top: 55px;
+}
+.aaa .navbar-wrapper{
+  top: -35px;
+}
+.aaa .textbar1{
+  font-size: 12px;
+  left: -30px;
+}
+.aaa .textbar2{
+  font-size: 12px;
+  left: 12px;
+}
+.aaa .textbar3{
+  font-size: 12px;
+    left: 80px;
+}
+.aaa .textbar44{
+  font-size: 12px;
+  left: 163px;
+}
+.aaa .textbar5{
+  font-size: 12px;
+  left: 220px;
+}
+.aaa .logo-2 {
+  width: 100px;
+  height: auto;
+  top: -15px;
+  left: -15px;
+}
 }
 @media screen and (max-width: 750px){
   .paginicial{
