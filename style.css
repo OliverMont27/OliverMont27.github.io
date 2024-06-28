@@ -1913,7 +1913,7 @@ left: 33%;
 .apoie .logo-2 {
   width: 90px;
   height: auto;
-  top: -7px;
+  top: -8px;
   left: -5px;
 }
   /*xxx*/
@@ -1947,13 +1947,13 @@ left: 33%;
 .aaa .logo-2 {
   width: 90px;
   height: auto;
-  top: -7px;
+  top: -8px;
   left: -5px;
 }
   .apoie .barazul {
   height: 10px;
 }
-   .apoie .barazul {
+   .aaa .barazul {
   height: 10px;
 }
 }
