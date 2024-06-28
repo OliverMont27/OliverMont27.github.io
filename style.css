@@ -1913,8 +1913,8 @@ left: 33%;
 .apoie .logo-2 {
   width: 90px;
   height: auto;
-  top: -15px;
-  left: 8px;
+  top: 0px;
+  left: -5px;
 }
   /*xxx*/
 .aaa .textbar {
@@ -1947,8 +1947,8 @@ left: 33%;
 .aaa .logo-2 {
   width: 90px;
   height: auto;
-  top: -10px;
-  left: 8px;
+  top: 0px;
+  left: -5px;
 }
   .apoie .barazul {
   height: 10px;
